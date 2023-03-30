@@ -26,11 +26,7 @@ height: 100%;
 
 }
 
-ul{
-display: flex;
-flex-wrap: wrap;
-list-style: none;
-}
+
 
 :root{
 --color-white:white;
@@ -61,7 +57,11 @@ font-style: normal;
 width: 83.19%;
 margin: 0 auto;
 }
-
+.container>h1{
+font-size: 5.5rem;
+line-height: 101.38%;
+height: 9.3rem;
+}
 .bottomShadow{
 background-color: var(--color-white-grey);;
 border-radius: 100%;
