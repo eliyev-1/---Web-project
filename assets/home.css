@@ -76,6 +76,11 @@ text-align: end;
 .kurs{
 margin-top: 17.336rem;
 }
+.kurs__content{
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
 .kurs >h1{
 width: 36.5rem;
 height: 9.3rem;
@@ -87,4 +92,8 @@ width: 66.2rem;
 height: 37.4rem;
 font-size: 2.4rem;
 line-height: 150%;
+}
+.cameramanImage{
+width: 31.4rem;
+height: 31.5rem;
 }
