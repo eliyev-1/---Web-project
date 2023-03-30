@@ -62,3 +62,8 @@ width: 83.19%;
 margin: 0 auto;
 }
 
+.bottomShadow{
+background-color: var(--color-white-grey);;
+border-radius: 100%;
+z-index: -1;
+}
