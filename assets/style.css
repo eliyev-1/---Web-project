@@ -1,0 +1,63 @@
+
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    border: none;
+    box-sizing:border-box;
+}
+html{
+box-sizing:border-box;
+font-size: 62.5%;
+font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+body{
+
+background-color: var(--color-white);
+color: var(--color-black);
+font-size: 1.6rem;
+}
+img{
+width: 100%;
+height: 100%;
+
+
+}
+
+ul{
+display: flex;
+flex-wrap: wrap;
+list-style: none;
+}
+
+:root{
+--color-white:white;
+--color-black:black;
+--color-blue:#1E4681;
+
+
+}
+:root{
+--main-font1: 'Roboto';
+--main-font2: 'Roboto Slab';
+
+}
+p{
+font-family: var(--main-font1);
+font-style: normal;
+font-weight: 400;
+}
+h1,h4,h6{
+font-family: var(--main-font2);
+font-weight: 700;
+font-style: normal;
+
+
+}
+.container{
+width: 83.19%;
+margin: 0 auto;
+}
+
