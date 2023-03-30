@@ -73,3 +73,18 @@ font-size: 2rem;
 line-height: 130%;
 text-align: end;
 }
+.kurs{
+margin-top: 17.336rem;
+}
+.kurs >h1{
+width: 36.5rem;
+height: 9.3rem;
+font-size: 5.5rem;
+line-height: 101.38%;
+}
+.kurs__left >p{
+width: 66.2rem;
+height: 37.4rem;
+font-size: 2.4rem;
+line-height: 150%;
+}
