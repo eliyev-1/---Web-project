@@ -1,0 +1,145 @@
+@media (max-width:1280px){
+.container>h1{
+font-size: 3.2rem;
+height: 5.386rem;
+}
+.container>h1{
+font-size: 4.6rem;
+line-height: 101.38%;
+height: 9.3rem;
+}
+.nav__logo{
+width: 6.487rem;
+height: 3.823rem;
+}
+.kino{
+margin-top: 5.618rem;
+}
+.kino__content__left__topBar{
+column-gap: 1.148rem;
+}
+.kino__content__left__topBar >div{
+column-gap: 0.463rem;
+}
+.kino__content__left__topBar >div>i{
+font-size: 1.2rem;
+}
+.kino__content__left__topBar >div>p{
+font-size: 1.2rem;
+}
+.kino__content{
+column-gap: 8.118rem;
+}
+.kino__content__left >h1{
+width: 36.372rem;
+font-size: 4.6rem;
+margin-top: 1.564rem;
+}
+.kino__content__left >p{
+width: 26.4rem;
+font-size: 1.2rem;
+line-height: 150%;
+margin-top: 2.7rem;
+}
+.DirectorImage{
+width: 17.607rem;
+height: 20.618rem;
+}
+.DirectorImage__botomShadow{
+
+width: 15.869rem;
+height: 2.375rem;
+}
+.queto{
+margin-top: 3.917rem;
+}
+.queto__content{
+padding-left: 1.508rem;
+padding-top: 1.115rem;
+width: 28.011rem;
+height: 11.583rem;
+border-radius: 0.289583rem;
+}
+.queto__content >p:nth-child(1){
+width: 24.938rem;
+height: 6.545;
+font-size: 1.4rem;
+line-height: 130%;
+
+}
+.queto__content >p:nth-child(2){
+margin-top: 0.86rem;
+width: 100%;
+padding-right: 1.508rem;
+font-size: 1.2rem;
+line-height: 130%;
+}
+.kurs{
+margin-top: 10.041rem;
+}
+.kurs__TopContent{
+column-gap: 19rem;
+}
+.kurs__TopContent__left >p{
+width: 38.341rem;
+height: 21.661rem;
+font-size: 1.4rem;
+}
+.cameramanImage{
+position: relative;
+
+width: 18.186rem;
+height: 18.244rem;
+}
+.cameramanImage__botomShadow{
+width: 21.198rem;
+height: 3.417rem;
+}
+.kurs__bottomContent{
+margin-top: 4.751rem;
+}
+.kranImage{
+position: relative;
+width: 13.437rem;
+height: 11.757rem;
+}
+.kranImage__bottomShadow{
+width: 10.946rem;
+height: 1.853rem;
+}
+.kurs__bottomContent{
+column-gap: 7.645rem;
+}
+.kurs__bottomContent__right{
+column-gap: 5.523rem;
+}
+.kurs__bottomContent__right div{
+row-gap: 0.058rem;
+}
+.kurs__bottomContent__right>div> h4, .format__content>div>h4{
+font-size: 1.5rem;
+height: 2.259rem;
+}
+.kurs__bottomContent__right>div> p,  .format__content>div>p{
+font-size: 1.1rem;
+line-height: 130%;
+}
+.kurs__bottomContent__right>div> p{
+width: 10.8rem;
+height: 2.3rem;
+}
+.format{
+margin-top: 9.383rem;
+}
+.format__content{
+column-gap: 4.6rem;
+}
+.format__content{
+margin-top: 5.155rem;
+}
+.format__content>div>p{
+margin-top:0.1rem ;
+width: 15.3rem;
+height: 3.9rem;
+}
+}
