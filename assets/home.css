@@ -195,6 +195,7 @@ margin-top: 22.4rem;
 .whatDoWeKnow__list >ul{
 margin-top: 2.1rem;
 width: 66.2rem;
+height: 37.4rem;
 }
 .whatDoWeKnow__list >ul>li{
 font-size: 2.4rem;
@@ -218,7 +219,7 @@ width: 88.33%;
 display: grid;
 grid-template-columns: auto auto auto;
 gap: 3.7rem;
-justify-content: center;
+justify-content: space-around;
 
 
 }
@@ -324,6 +325,7 @@ margin-top: 7.1rem;
 .subtext h4{
 width: 29.4rem;
 font-size: 2.5rem;
+font-weight: 400;
 }
 .subtext p{
 margin-top: 0.9rem;
