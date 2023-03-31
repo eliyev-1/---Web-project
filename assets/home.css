@@ -1,5 +1,5 @@
 .kino{
-    margin-top: 9.7rem;
+margin-top: 9.7rem;
 }
 .kino__content{
 display: flex;
@@ -31,7 +31,7 @@ line-height: 115%;
 color: var(--color-black);
 }
 .kino__content__left >h1{
-    width: 62.8rem;
+width: 62.8rem;
 font-size: 8rem;
 line-height: 101.38%;
 margin-top: 4.3rem;
@@ -43,7 +43,7 @@ line-height: 150%;
 margin-top: 5.1rem;
 }
 .DirectorImage{
-    position: relative;
+position: relative;
 width: 30.4rem;
 height: 35.6rem;
 }
@@ -103,13 +103,13 @@ font-size: 2.4rem;
 line-height: 150%;
 }
 .cameramanImage{
-    position: relative;
+position: relative;
 
 width: 31.4rem;
 height: 31.5rem;
 }
 .cameramanImage__botomShadow{
-    position: absolute;
+position: absolute;
 position: absolute;
 
 bottom: 0;
@@ -121,7 +121,7 @@ height: 5.9rem;
 
 }
 .kurs__bottomContent{
-    margin-top: 8.1rem;
+margin-top: 8.1rem;
 }
 .kranImage{
 position: relative;
@@ -200,7 +200,7 @@ line-height: 150%;
 }
 
 .proqrammaKursa{
-    
+
 margin-top: 23.6rem;
 }
 .proqrammaKursa__content{
@@ -225,13 +225,13 @@ border-radius: 3.6rem;
 }
 
 .proqrammaKursa__content__item >h1, .proqrammaKursa__content__item >p{
-    width: 36.5rem;
+width: 36.5rem;
 margin-left: 2rem;
 line-height: 130%;
 }
 
 .proqrammaKursa__content__item >h1{
- height: 3.9rem;
+height: 3.9rem;
 font-size: 3rem;
 
 }
@@ -243,6 +243,50 @@ margin-bottom: 2.3rem;
 font-size: 2.5rem;
 }
 .proqrammaKursa__content__item:nth-child(8)>h1{
-  
-    line-height: 97%;
+line-height: 97%;
+}
+.people1616{
+
+margin-top: 12.1rem;
+padding-top: 9.1rem;
+padding-bottom: 11.1rem;
+background-color: var(--color-white-grey);
+}
+.people1616 >h1{
+width: 98.7rem;
+height: 9.3rem;
+}
+.people1616__card{
+display: grid;
+grid-template-columns: auto;
+justify-content: center;
+padding-top: 4rem;
+margin-top: 3.4rem;
+width: 79.1rem;
+height: 45.1rem;
+background-color: var(--color-white);
+box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.25);
+border-radius: 3rem;
+}
+.people1616__card >p{
+width: 70rem;
+height: 20.3rem;
+font-size: 2rem;
+}
+.profilePhoto{
+display: flex;
+align-items: center;
+column-gap: 5rem;
+width: 15.3rem;
+height: 15.3rem;
+
+}
+.profileName >h4{
+width: 35.3rem;
+height: 5.9rem;
+font-size: 3rem;
+}
+.social{
+width: 3.2rem;
+height: 3.1rem;
 }
