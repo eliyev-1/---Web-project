@@ -13,9 +13,12 @@ color: var(--color-white);
 background-color: var(--color-black);
 }
 .footer__content{
+    
 display: flex;
 justify-content: space-between;
 align-items: center;
+
+
 }
 .footer__logo{
 width: 11.5rem;

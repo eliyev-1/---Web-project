@@ -3,7 +3,8 @@
 .container>h1{
 font-size: 3.2rem;
 line-height: 101.38%;
-height: 9.3rem;
+height: 5.336rem;
+width: 38.63;
 }
 .nav__logo{
 width: 6.487rem;
@@ -17,25 +18,21 @@ column-gap: 1.148rem;
 }
 .kino__content__left__topBar >div{
 column-gap: 0.463rem;
-}
-.kino__content__left__topBar >div>i{
 font-size: 1.2rem;
 }
-.kino__content__left__topBar >div>p{
-font-size: 1.2rem;
-}
+
 .kino__content{
 column-gap: 8.118rem;
 }
 .kino__content__left >h1{
 width: 36.372rem;
+height: 11.004rem;
 font-size: 4.6rem;
 margin-top: 1.564rem;
 }
 .kino__content__left >p{
 width: 26.4rem;
 font-size: 1.2rem;
-line-height: 150%;
 margin-top: 2.7rem;
 }
 .DirectorImage{
@@ -59,7 +56,7 @@ border-radius: 0.289583rem;
 }
 .queto__content >p:nth-child(1){
 width: 24.938rem;
-height: 6.545;
+height: 6.545rem;
 font-size: 1.4rem;
 line-height: 130%;
 
@@ -75,7 +72,7 @@ line-height: 130%;
 margin-top: 10.041rem;
 }
 .kurs__TopContent{
-column-gap: 19rem;
+column-gap: 11.004rem;
 }
 .kurs__TopContent__left >p{
 width: 38.341rem;
@@ -83,8 +80,6 @@ height: 21.661rem;
 font-size: 1.4rem;
 }
 .cameramanImage{
-position: relative;
-
 width: 18.186rem;
 height: 18.244rem;
 }
@@ -111,7 +106,7 @@ column-gap: 7.645rem;
 column-gap: 5.523rem;
 }
 .kurs__bottomContent__right div{
-row-gap: 0.058rem;
+row-gap: 0.036rem;
 }
 .kurs__bottomContent__right>div> h4, .format__content>div>h4{
 font-size: 1.5rem;
@@ -130,10 +125,9 @@ margin-top: 9.383rem;
 }
 .format__content{
 column-gap: 4.6rem;
-}
-.format__content{
 margin-top: 5.155rem;
 }
+
 .format__content>div>p{
 margin-top:0.1rem ;
 width: 15.3rem;
@@ -145,7 +139,7 @@ margin-top: 12.755rem;
 .whatDoWeKnow__list >ul{
 margin-top: 1.216rem;
 width: 38.341rem;
-height: 21.661;
+height: 21.661rem;
 }
 .whatDoWeKnow__list >ul>li{
 font-size: 1.4rem;
@@ -158,7 +152,6 @@ margin-top: 5.02rem;
 }
 .proqrammaKursa__content__items{
 gap: 2.143rem;
-
 }
 .proqrammaKursa__content__item{
 width: 23.109rem;
@@ -178,7 +171,7 @@ font-size: 1.7rem;
 
 }
 .proqrammaKursa__content__item >p{
-width: 21.14rem;
+
 height: 6.3rem;
 margin-top: 1.853rem;
 margin-bottom: 1.332rem;
@@ -257,4 +250,304 @@ width: 17.028rem;
 height: 4.054rem;
 font-size: 1rem;
 }
+.footer{
+padding-top: 2.896rem;
+}
+.footer__logo{
+width: 6.66rem;
+height: 3.938rem;
+}
+.footer_socialMedia{
+margin-top: 1.738rem;
+column-gap: 1.043rem;
+}
+.footer_socialMedia a{
+font-size: 1.911rem;
+}
+.footer__content__right >div{
+
+column-gap: 1.274rem;
+font-size: 1.4rem;
+}
+.footer__subtext{
+font-size: 1rem;
+margin-top: 8.514rem;
+padding-bottom: 1.332rem;
+}
+}
+@media (max-width:790px){
+.container>h1{
+font-size: 2.6rem;
+width: 31.08rem;
+height: 4.334rem;
+}
+.kino__content__left__topBar{
+column-gap: 1.165rem;
+}
+.kino__content__left__topBar >div{
+column-gap: 0.373rem;
+font-size: 1rem;
+}
+.kino__content__left__topBar >div>p,.kino__content__left__topBar >div>i{
+font-size: 1rem;
+}
+.kino__content{
+flex-wrap: wrap;
+}
+.kino__content__left >h1{
+width: 29.263rem;
+height: 8.853rem;
+font-size: 3.7rem;
+margin-top: 1.258rem;
+}
+.kino__content__left >p{
+width: 21.24rem;
+height: 2.896rem;
+font-size: 1rem;
+margin-top: 0.222rem;
+}
+.DirectorImage{
+width: 14.166rem;
+height: 16.589rem;
+}
+.DirectorImage__botomShadow{
+width: 12.768rem;
+height: 1.91rem;
+}
+.queto{
+margin-top: 3.864rem;
+justify-content: start;
+}
+.queto__content{
+padding-left: 1.213rem;
+padding-top: 0.897rem;
+width: 22.536rem;
+height: 9.319rem;
+border-radius: 0.232986rem;
+}
+.kino__content__right{
+width: 100%;
+display: flex;
+justify-content: end;
+}
+.queto__content >p:nth-child(1){
+width: 20.064rem;
+height: 5.265rem;
+font-size: 1.1rem;
+
+}
+.queto__content >p:nth-child(2){
+margin-top: 0.86rem;
+width: 100%;
+font-size: 1rem;
+}
+.kurs{
+margin-top: 7.506rem;
+}
+.kurs__TopContent{
+gap: 1rem;
+
+flex-wrap: wrap;
+}
+.kurs__TopContent__left >p{
+width: 30.847;
+height: 17.427rem;
+font-size: 1rem;
+}
+.kurs__TopContent__right{
+width: 100%;
+display: flex;
+justify-content: center;
+}
+.cameramanImage{
+width: 14.632rem;
+height: 14.678rem;
+}
+.cameramanImage__botomShadow{
+width: 17.055rem;
+height: 2.749rem;
+}
+.kurs__bottomContent{
+margin-top: 4.571rem;
+}
+.kranImage{
+display: none;
+}
+.kurs__bottomContent{
+column-gap: 0rem;
+}
+.kurs__bottomContent__right{
+flex-wrap: wrap;
+gap: 3.333rem;
+}
+.kurs__bottomContent__right div{
+row-gap: 0.083rem;
+}
+.kurs__bottomContent__right>div> h4, .format__content>div>h4{
+font-size: 1.2rem;
+
+height: 2.259rem;
+}
+.kurs__bottomContent__right>div> p,  .format__content>div>p{
+font-size: 1rem;
+
+
+}
+.kurs__bottomContent__right>div> p{
+width: 8.6rem;
+height: 1.8rem;
+}
+.format{
+margin-top: 7.6rem;
+}
+.format__content{
+column-gap: 4.6rem;
+row-gap: 1rem;
+flex-wrap: wrap;
+margin-top: 1.666rem;
+}
+.format__content>div>p{
+margin-top:0.083rem ;
+width: 16.5rem;
+height: 8rem;
+}
+.whatDoWeKnow{
+margin-top: 7.3rem;
+}
+.whatDoWeKnow__list >ul{
+margin-top: 0.966rem;
+width: 29.9rem;
+height: 19.3rem;
+}
+.whatDoWeKnow__list >ul>li{
+font-size: 1.2rem;
+}
+.proqrammaKursa{
+margin-top: 6.6rem;
+}
+.proqrammaKursa__content{
+margin-top: 3.566rem;
+}
+.proqrammaKursa__content__items{
+grid-template-columns: auto auto;
+gap: 2.416rem;
+}
+.people1616{
+margin-top: 4.716rem;
+padding-top: 4.2rem;
+padding-bottom: 5.3rem;
+}
+.people1616 h1{
+width: 25.7rem;
+height: 6.9rem;
+} 
+.people1616__card{
+padding-top: 2.317rem;
+margin-top: 1.969rem;
+width: 30.8rem;
+height: 24.8rem;
+border-radius: 1.7375rem;
+}
+.people1616__card >p{
+width: 26.6rem;
+height: 11.101rem;
+font-size: 1rem;
+}
+.profilePhoto{
+column-gap: 1.363rem;
+width: 8rem;
+height: 8rem;
+}
+.profileName >h4{
+width: 16.449rem;
+height: 3.273rem;
+font-size: 1.4rem;
+}
+.nachaloKursa{
+padding-top: 6.2rem;
+padding-bottom: 6.346rem;
+}
+.nachaloKursa__heder > h1{
+font-size: 2.6rem;
+}
+.nachaloKursa__heder p{
+margin-top: 2.233rem;
+
+width: 7.922rem;
+height: 1.491rem;
+font-size: 1.4rem;
+}
+.nachaloKursa__heder h4{
+width: 22.4rem;
+height: 3.9rem;
+font-size: 3.7rem;
+}
+.subtext{
+display: flex;
+column-gap: 3.1rem;
+margin-top: 3.354rem;
+}
+.subtext h4{
+width: 13.7rem;
+font-size: 1.2rem;
+}
+.subtext p{
+margin-top: 0.9rem;
+width: 13.7rem;
+height: 3.8rem;
+font-size: 1rem;
+}
+.footer{
+padding-top: 2.33rem;
+}
+.footer__logo{
+width: 5.359rem;
+height: 3.169rem;
+}
+.footer_socialMedia{
+margin-top: 1.398rem;
+column-gap: 0.839rem;
+}
+.footer_socialMedia a{
+font-size: 1.911rem;
+}
+.footer__content__right >div{
+
+column-gap: 1.274rem;
+font-size: 1.2rem;
+}
+
+}
+@media (max-width:537px){
+
+.footer__content{
+display: block;
+}
+.footer__content__right{
+margin-top: 4.812rem;
+}
+
+.proqrammaKursa__content__items{
+grid-template-columns: auto ;
+
+}
+.proqrammaKursa__content__item >h1, .proqrammaKursa__content__item >p{
+width: 17.008rem;
+margin-left: 2rem;
+
+}
+.proqrammaKursa__content__item >h1{
+height: 1.817rem;
+font-size: 1.4rem;
+}
+.proqrammaKursa__content__item >p{
+width: 21.14rem;
+height: 2.936rem;
+margin-top: 1.491rem;
+margin-bottom: 1.072rem;
+font-size: 1.2rem;
+}
+
+
+
 }
