@@ -393,7 +393,7 @@ margin-top: 7.506rem;
 .kurs__TopContent{
 gap: 1rem;
 
-flex-wrap: wrap;
+
 }
 .kurs__TopContent__left >p{
 width: 30.847rem;
@@ -581,8 +581,22 @@ font-size: 1.2rem;
 
 }
 /*  max-width:537px  *//*  max-width:537px  *//*  max-width:537px  *//*  max-width:537px  *//*  max-width:537px  *//*  max-width:537px  *//*  max-width:537px  */
-@media (max-width:537px){
+@media (max-width:567px){
+.kurs__TopContent{
+gap: 1rem;
+flex-wrap: wrap;
 
+}
+.people1616__card,.people1616__card>p{
+    width: 100%;
+} 
+.people1616__card>p{
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.profilePhoto{
+    margin-left: 2rem;
+}
 .footer__content{
 display: block;
 }
