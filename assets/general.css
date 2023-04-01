@@ -1,4 +1,4 @@
-
+/* Navbar *//* Navbar *//* Navbar *//* Navbar *//* Navbar *//* Navbar *//* Navbar *//* Navbar *//* Navbar *//* Navbar *//* Navbar *//* Navbar */
 nav{
 padding-top: 2.1rem;
 
@@ -7,6 +7,9 @@ padding-top: 2.1rem;
 width: 11.2rem;
 height: 6.6rem;
 }
+
+/* Footer *//* Footer *//* Footer *//* Footer *//* Footer *//* Footer *//* Footer *//* Footer *//* Footer *//* Footer *//* Footer *//* Footer *//* Footer */
+
 .footer{
 padding-top: 5rem;
 color: var(--color-white);
@@ -17,7 +20,6 @@ background-color: var(--color-black);
 display: flex;
 justify-content: space-between;
 align-items: center;
-
 
 }
 .footer__logo{
