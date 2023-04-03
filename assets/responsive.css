@@ -399,6 +399,7 @@ gap: 1rem;
 width: 30.847rem;
 height: 17.427rem;
 font-size: 1rem;
+display: inline;
 }
 .kurs__TopContent__right{
 width: 100%;
@@ -470,6 +471,7 @@ margin-top: 7.3rem;
 margin-top: 0.966rem;
 width: 29.9rem;
 height: 19.3rem;
+display: inline;
 }
 .whatDoWeKnow__list >ul>li{
 font-size: 1.2rem;
@@ -484,10 +486,14 @@ margin-top: 6.6rem;
 margin-top: 3.566rem;
 }
 .proqrammaKursa__content__items{
-grid-template-columns: auto auto;
-gap: 2.416rem;
+grid-template-columns: auto  ;
+gap: 2rem;
 }
-
+.proqrammaKursa__content__item{
+    width: 100%;
+    height: 100%;
+    border-radius: 4rem;
+}
 /* people1616 max-width:790px  *//* people1616 max-width:790px  *//* people1616 max-width:790px  *//* people1616 max-width:790px  *//* people1616 max-width:790px  *//* people1616 max-width:790px  *//* people1616 max-width:790px  *//* people1616 max-width:790px  */
 
 .people1616{
@@ -627,4 +633,17 @@ font-size: 1.2rem;
 
 
 
+}
+@media (max-width:350px){
+.subtext{
+display: block;
+gap: 3.1rem;
+margin-top: 3.354rem;
+}
+.subtext div:nth-child(2){
+    margin-top: 5rem;
+}
+h1,h4{
+    display: inline;
+}
 }

@@ -41,12 +41,14 @@ width: 62.8rem;
 height: 19rem;
 font-size: 8rem;
 line-height: 101.38%;
+
 }
 .kino__content__left >p{
 width: 41.4rem;
 font-size: 2rem;
 line-height: 150%;
 margin-top: 2.5rem;
+background-color: red;
 }
 .DirectorImage{
 position: relative;
@@ -332,7 +334,7 @@ font-size: 8rem;
 }
 .subtext{
 display: flex;
-column-gap: 7rem;
+gap: 7rem;
 
 margin-top: 7.1rem;
 }
